@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rayssa%20Roberta%20Rodrigues%20Silva&fontSize=35&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rayssa%20R.%20R.%20Silva&fontSize=35&fontAlignY=35&animation=twinkling" />
 </p>
 
 <p align="center">
