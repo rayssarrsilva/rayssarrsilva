@@ -1,23 +1,18 @@
-## Hi there 👋 I'm Rayssa Roberta Rodrigues Silva
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rayssa%20Roberta%20Rodrigues%20Silva&fontSize=35&fontAlignY=35&animation=twinkling" />
+</p>
 
-**Software Engineer | Backend Developer | Data Analyst**  
-Focused on **Python (Flask, FastAPI, Django)**, **SQL (PostgreSQL, SQLite)**, and **Java (Spring Boot)**.  
-I build **REST APIs, authentication systems, data pipelines with Pandas**, and deploy applications on **AWS, Render, Railway**.  
-🌍 Open to opportunities in **Brazil and worldwide**.  
-📫 Contact: rayssarrsilva1@gmail.com | [LinkedIn](https://www.linkedin.com/in/rayssa-r-14936622a) | [Portfolio](https://www.portfoliorayssarrsilva.site/)  
-
----
-
-### 🎓 Education
-- **Análise e Desenvolvimento de Sistemas** – Universidade de Uberaba (Uniube)  
-  02/2023 – 07/2025 | Presencial | Conclusão prevista  
-
-### 📜 Certifications
-See all my certifications here: [Certificados](https://www.portfoliorayssarrsilva.site/certificados.html)  
-**English level: B2 (Upper Intermediate)**  
+<p align="center">
+  <b>Software Engineer | Backend Developer | Data Analyst</b><br>
+  🎓 Graduanda em Análise e Desenvolvimento de Sistemas (Uniube, 2023–2025)<br>
+  🌍 English level: B2 | Open to opportunities in Brazil & worldwide<br>
+  📫 rayssarrsilva1@gmail.com | 
+  <a href="https://www.linkedin.com/in/rayssa-r-14936622a">LinkedIn</a> | 
+  <a href="https://www.portfoliorayssarrsilva.site/">Portfolio</a>
+</p>
 
 ---
-
 ### 🚀 Top 3 Projects
 #### 1. [Lista de Compras](https://github.com/rayssarrsilva/ListaCompras)
 - **Stack**: Flask, FastAPI, PostgreSQL, Docker, AWS  
@@ -31,34 +26,17 @@ See all my certifications here: [Certificados](https://www.portfoliorayssarrsilv
 - **Stack**: Python, Pandas  
 - **Highlights**: Pipeline modular para limpeza de dados, normalização de colunas, testes com datasets reais.  
 
----
-
-### ⭐ Other Projects
-#### [DoarAlimentosPlat](https://github.com/rayssarrsilva/doarAlimentosplat)
-- **Stack**: Django, SQLite, Bootstrap  
-- **Highlights**: Plataforma de doação de alimentos com CRUD completo e interface responsiva.  
-
-#### [Investly](https://github.com/rayssarrsilva/investly)
-- **Stack**: Java, Spring Boot, PostgreSQL  
-- **Highlights**: Simulador financeiro com autenticação e persistência de dados.  
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayssarrsilva&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssarrsilva&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+**Core Skills:** Python (Flask, FastAPI, Django) · HTML · CSS · JavaScript · Docker · PostgreSQL · Cloud Deploys (AWS, Render, Railway, Netlify)
