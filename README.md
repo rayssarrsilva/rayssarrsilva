@@ -1,5 +1,4 @@
 <p align="center">
-  <b> Passionate Frontend Developer | Backend Python, Django, Flask</b><br>
   🎓 Graduanda em Análise e Desenvolvimento de Sistemas (Uniube, 2023–2025)<br>
   🌍 English level: B2 | Open to opportunities in Brazil & worldwide<br>
   📫 rayssarrsilva1@gmail.com | 
