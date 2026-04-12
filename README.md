@@ -1,5 +1,5 @@
 <p align="center">
-  🎓 Graduanda em Análise e Desenvolvimento de Sistemas (Uniube, 2023–2025)<br>
+  🎓 Graduada em Análise e Desenvolvimento de Sistemas (Uniube, 2023–2025)<br>
   🌍 English level: B2 | Open to opportunities in Brazil & worldwide<br>
   📫 rayssarrsilva1@gmail.com | 
   <a href="https://www.linkedin.com/in/rayssa-r-14936622a">LinkedIn</a> | 
