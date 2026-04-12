@@ -1,10 +1,5 @@
-<!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rayssa%20R.%20R.%20Silva&fontSize=35&fontAlignY=35&animation=twinkling" />
-</p>
-
-<p align="center">
-  <b>Software Engineer | Backend Developer | Data Analyst</b><br>
+  <b> Passionate Frontend Developer | Backend Python, Django, Flask</b><br>
   🎓 Graduanda em Análise e Desenvolvimento de Sistemas (Uniube, 2023–2025)<br>
   🌍 English level: B2 | Open to opportunities in Brazil & worldwide<br>
   📫 rayssarrsilva1@gmail.com | 
